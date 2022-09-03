@@ -1,0 +1,19 @@
+{
+  "name": "profile-editor-javascript-gogomogo1989",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodecoolGlobal/profile-editor-javascript-GogoMogo1989.git"
+  },
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodecoolGlobal/profile-editor-javascript-GogoMogo1989/issues"
+  },
+  "homepage": "https://github.com/CodecoolGlobal/profile-editor-javascript-GogoMogo1989#readme"
+}

@@ -1,6 +1,6 @@
  const formComponent = `
             <form id="form">
-                <h1>Feliratkozás</h1>
+                <h1>Submit</h1>
                 <input type="text" id="name" name="name" placeholder="Full name">
                 <input type="text" id="zip" name="zip" placeholder="Zip code">
                 <input type="text" id="cit" name="city" placeholder="City">
